@@ -14,28 +14,28 @@
      {
       "name": "Voltage Clamp Technique",
       "short-name": "voltage-clamp",
-      "repo": "https://virtual-labs.github.io/exp-voltage-clamp-au",
+      "repo": "https://github.com/exp-voltage-clamp-au",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Simple Neuron Model - the HH neuron",
       "short-name": "neuron-model",
-      "repo": "https://virtual-labs.github.io/exp-neuron-model-au/",
+      "repo": "https://github.com/virtual-labs/exp-neuron-model-au/",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Patch Clamp Technique",
       "short-name": "patch-clamp",
-      "repo": "https://virtual-labs.github.io/exp-patch-clamp-au/",
+      "repo": "https://github.com/virtual-labs/exp-patch-clamp-au/",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Current Clamp Technique",
       "short-name": "current-clamp",
-      "repo": "https://virtual-labs.github.io/exp-current-clamp-au/",
+      "repo": "https://github.com/virtual-labs/exp-current-clamp-au/",
       "tag": "v1.0.0",
       "deploy": true
     }
