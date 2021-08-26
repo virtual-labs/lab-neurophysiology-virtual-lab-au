@@ -1,13 +1,14 @@
 {
-    "broadArea": {
-        "name": "",
-        "link": ""
+    "broadArea": 
+    {
+        "name": "Biotechnology and Biomedical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
     },
-    "lab": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
-    "baseUrl": "",
+    "lab": "Neurophysiology Virtual Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "AMRT",
+    "baseUrl": "nvl-au.vlabs.ac.in",
     "introduction": "",
     "experiments": [],
     "targetAudience": {
