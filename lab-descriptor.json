@@ -9,15 +9,15 @@
     "phase": 2,
     "collegeName": "AMRT",
     "baseUrl": "nvl-au.vlabs.ac.in",
-    "introduction": "",
+    "introduction": "Neurophysiology is the study of nervous system which is made up of many neurons, each carrying different types of information. In this lab, students will be able to learn and understand the techniques for identifying and recording electrical activities of neurons using user interactive interface. Lab focuses in detail about Hodgkin–Huxley model, a scientific model that describes how action potentials in neurons are initiated and propagated. It also explores basics of electrophysiology techniques for studying single or multiple ion channels in cells. Students can expand their skillset in neurophysiology laboratory such as recording membrane potential by varying current into a cell, measuring how much ionic current crosses a cell membrane at a given voltage which will help students to familiarize themselves with neurophysiology techniques with repeated access to the laboratory course.",
     "experiments": [],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["B.Tech./ B.E in Biotechnology"],
+        "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
     },
-    "objective": "",
+    "objective": "1. Using Hodgkin–Huxley model , to understand generating action potential of a neuron and to describe in detail how an action potential is initiated and propagated.</br>2. To explore classical current clamp experiment protocol and to study the nature of spiking using current injection.</br>3. To understand the function of excitable cells, and to learn how the kinetics of voltage activated ion channels such as Na+, K+ affect the excitation in cells.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The syllabi of this lab aligns to the following disciplines.",
+        "universities": ["UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science","B.Tech./ B.E in Biotechnology","PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
     }
 }
