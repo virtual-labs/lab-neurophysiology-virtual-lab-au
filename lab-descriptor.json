@@ -10,7 +10,36 @@
     "collegeName": "AMRT",
     "baseUrl": "nvl-au.vlabs.ac.in",
     "introduction": "Neurophysiology is the study of nervous system which is made up of many neurons, each carrying different types of information. In this lab, students will be able to learn and understand the techniques for identifying and recording electrical activities of neurons using user interactive interface. Lab focuses in detail about Hodgkin–Huxley model, a scientific model that describes how action potentials in neurons are initiated and propagated. It also explores basics of electrophysiology techniques for studying single or multiple ion channels in cells. Students can expand their skillset in neurophysiology laboratory such as recording membrane potential by varying current into a cell, measuring how much ionic current crosses a cell membrane at a given voltage which will help students to familiarize themselves with neurophysiology techniques with repeated access to the laboratory course.",
-    "experiments": [],
+    "experiments": [
+     {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
     "targetAudience": {
         "UG": ["B.Tech./ B.E in Biotechnology"],
         "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
