@@ -14,7 +14,7 @@
      {
       "name": "Voltage Clamp Technique",
       "short-name": "voltage-clamp",
-      "repo": "https://github.com/exp-voltage-clamp-au",
+      "repo": "https://github.com/virtual-labs/exp-voltage-clamp-au",
       "tag": "v1.0.0",
       "deploy": true
     },
