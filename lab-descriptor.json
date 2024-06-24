@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
   "lab": "Neurophysiology Virtual Lab",
+  "lab_display_name": "Neurophysiology Virtual Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "AMRT",
@@ -51,8 +53,5 @@
       "B.Tech./ B.E in Biotechnology",
       "PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
     ]
-  },
-  "exp_name": "Current Clamp Technique",
-  "exp_short_name": "current-clamp",
-  "version": "v0.9.0"
+  }
 }
